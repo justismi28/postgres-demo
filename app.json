@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "postgres-demo",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
