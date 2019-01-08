@@ -1,7 +1,7 @@
-##postgres-demo
+## postgres-demo
 SpringBoot RESTful endpoint with PostgreSQL backend to store Questions and Answers
 
-#Sample Question POST
+# Sample Question POST
 Using Postman you can post a body with the JSON keys ```title``` and ```description``` 
 ```
 {
