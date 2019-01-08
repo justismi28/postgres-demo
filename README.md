@@ -9,7 +9,7 @@ Using rest tool of choice (postman, curl, etc...) you can post a body with the J
 	"description":"I want to use PostgreSQL with Spring Boot and JPA and develop RESTful APIs. Please help!"
 }
 ```
-###### answer cURL
+###### question cURL
 ```
 curl -d '{"title":"some text value","description":"some other text value" }' -H "Content-Type: application/json" -X POST http://localhost:8080/questions
 ```
