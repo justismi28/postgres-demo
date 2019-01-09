@@ -46,3 +46,5 @@ A successful posting should return a 200 OK response with a body containing the 
     "text": "It's very easy to configure PostgreSQL in a spring boot app."
 }
 ```
+
+small change
